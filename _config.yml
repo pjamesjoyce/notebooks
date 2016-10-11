@@ -10,13 +10,13 @@ description: > # this means to ignore newlines until "email:"
 
 email: pjamesjoyce@gmail.com
 #blog logo
-logo: "/notebooks/assets/images/logo.png"
+logo: "/notebooks/assets/images/pjj_logo.png"
 # blog cover
 cover: "/notebooks/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'James Joyce'
 author: 'James Joyce'
-author_image: "/notebooks/assets/images/logo.jpg"
+author_image: "/notebooks/assets/images/pjj_logo.png"
 
 paginate:	5
 
