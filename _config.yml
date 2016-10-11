@@ -14,14 +14,14 @@ logo: "/assets/images/logo.png"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
-author_image: "/assets/images/author.jpg"
+name: 'James Joyce'
+author: 'James Joyce'
+author_image: "/assets/images/logo.jpg"
 
 paginate:	5
 
 url: "https://pjamesjoyce.github.io/notebooks/" # the base hostname & protocol for your site
-baseurl: ""
+baseurl: "/notebooks"
 #used to display twitter cards
 twitter_handle: '@KTH_James'
 
