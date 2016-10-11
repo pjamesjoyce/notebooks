@@ -22,6 +22,8 @@ paginate:	5
 
 url: "https://pjamesjoyce.github.io/notebooks/" # the base hostname & protocol for your site
 baseurl: "https://pjamesjoyce.github.io/notebooks/"
+
+permalink: "notebooks/:categories/:year/:month/:day/:title.html"
 #used to display twitter cards
 twitter_handle: '@KTH_James'
 
