@@ -21,7 +21,7 @@ author_image: "/notebooks/assets/images/pjj_logo.jpg"
 paginate:	5
 
 url: "https://pjamesjoyce.github.io/notebooks/" # the base hostname & protocol for your site
-baseurl: "/notebooks"
+baseurl: "https://pjamesjoyce.github.io/notebooks/"
 #used to display twitter cards
 twitter_handle: '@KTH_James'
 
